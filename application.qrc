@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>objects/alfil.obj</file>
+        <file>objects/cavall.obj</file>
+        <file>objects/peo.obj</file>
+        <file>objects/rei.obj</file>
+        <file>objects/reina.obj</file>
+        <file>objects/tauler.obj</file>
+        <file>objects/torre.obj</file>
+    </qresource>
+</RCC>
